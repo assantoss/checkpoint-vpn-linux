@@ -28,7 +28,7 @@ sudo ./snx_install.sh
 ```
 &nbsp;
 
-- 3. Criando arquivo de configuração
+  3. Criando arquivo de configuração
 
 &nbsp;
 
@@ -45,7 +45,7 @@ reauth yes
 
 esc :wq!
 
-- 4. Conectando via VPN
+  4. Conectando via VPN
 
 &nbsp;
 
