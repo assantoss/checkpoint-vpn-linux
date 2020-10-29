@@ -1,6 +1,6 @@
 # Configuração checkpoint-vpn no ubuntu
 
-- 1. Instalação dependencias:
+  1. Instalação dependencias:
   - libpam0g:i386 
   - libx11-6:i386 
   - libstdc++6:i386 
@@ -15,7 +15,7 @@ sudo apt install libpam0g:i386 libx11-6:i386 libstdc++6:i386 libstdc++5:i386
   ```
 &nbsp;
 
-- 2. Instalação o SNX:
+  2. Instalação o SNX:
 
 &nbsp;
 
